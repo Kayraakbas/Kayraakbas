@@ -19,4 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kayraakbas&show_icons=true&locale=en" alt="kayraakbas" /></p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kayraakbas&" alt="Kayraakbas" /></p>
