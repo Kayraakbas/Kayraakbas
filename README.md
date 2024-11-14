@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kayraakbas&show_icons=true&locale=en" alt="kayraakbas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kayraakbas&" alt="Kayraakbas" /></p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/kayraakbas7?theme=nord&font=Archivo)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kayraakbas&" alt="Kayraakbas" />![LeetCode Stats](https://leetcard.jacoblin.cool/kayraakbas7?theme=nord&font=Archivo)</p>
+
