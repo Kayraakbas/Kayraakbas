@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kayra</h1>
-<h3 align="center">A passionate iOS developer from Turkey. I'm a student of both Kadir Has University and 42 Istanbul.</h3>
+<h3 align="center">A passionate iOS developer from Turkey. I'm a student of both Kadir Has University and 42 Network.</h3>
 
 - 📫 How to reach me **kayraakbas7@gmail.com**
 
